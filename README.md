@@ -1,6 +1,9 @@
-# Getting Started with Create React App
+# Getting Started with Create React App + TypeScript + Bootstrap + React-Bootstrap
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app)
+with [TypeScript](https://www.typescriptlang.org/), as well as [Bootstrap](https://getbootstrap.com/)
+and [React-Bootstrap](https://react-bootstrap.github.io/).
+The starter template was slightly adapted to get you started easier, too.
 
 ## Available Scripts
 
